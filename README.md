@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
