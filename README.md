@@ -11,11 +11,13 @@
 | [0035-search-insert-position](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +65,20 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
