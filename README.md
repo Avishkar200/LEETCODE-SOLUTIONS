@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
