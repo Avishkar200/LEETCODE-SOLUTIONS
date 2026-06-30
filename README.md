@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -65,6 +66,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
