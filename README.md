@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
