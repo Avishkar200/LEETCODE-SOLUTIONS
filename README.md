@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -36,6 +37,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -96,6 +98,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
 | ------- |
