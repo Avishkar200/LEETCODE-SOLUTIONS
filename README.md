@@ -55,6 +55,7 @@
 | [0202-happy-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
