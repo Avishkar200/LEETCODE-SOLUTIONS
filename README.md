@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0832-flipping-an-image) |
@@ -178,6 +179,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 ## Combinatorics
 |  |
