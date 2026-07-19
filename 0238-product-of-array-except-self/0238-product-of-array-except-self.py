@@ -8,9 +8,11 @@ class Solution:
             for i in range(len(nums)):
                 a.append(int(s/nums[i]))
         elif c==1:
+            r=math.prod([x for x in nums if x!=0])
             for j in range(len(nums)):
+
                 if nums[j]==0:
-                    r=math.prod([x for x in nums if x!=0])
+                    
                     a.append(r)
                 else:
                     a.append(0)
