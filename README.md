@@ -22,6 +22,7 @@
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -113,6 +114,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
@@ -184,10 +186,15 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
