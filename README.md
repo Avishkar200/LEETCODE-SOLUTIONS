@@ -28,6 +28,7 @@
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0697-degree-of-an-array) |
 | [0832-flipping-an-image](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -48,6 +49,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
