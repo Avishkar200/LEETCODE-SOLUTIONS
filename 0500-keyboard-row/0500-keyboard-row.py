@@ -6,7 +6,7 @@ class Solution:
         k=[]
         for i in words:
             s=set(i.lower())
-            if s<=a or s<=b or s<=c:
+            if s.issubset(a) or s.issubset(b) or s.issubset(c):
                 k.append(i)
         return k
                     
