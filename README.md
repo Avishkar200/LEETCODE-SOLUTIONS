@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
@@ -109,6 +111,7 @@
 | [0202-happy-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -117,6 +120,7 @@
 | [0035-search-insert-position](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -126,6 +130,7 @@
 | [0217-contains-duplicate](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
