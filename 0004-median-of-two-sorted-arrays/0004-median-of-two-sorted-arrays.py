@@ -1,6 +1,36 @@
 import numpy as np
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        s=sorted(nums1+nums2)
-        return np.median(s)
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
+
+        m, n = len(nums1), len(nums2)
+        low, high = 0, m
+        half_len = (m + n + 1) // 2
+
+        while low <= high:
+            i = (low + high) // 2
+            j = half_len - i
+
+            # Edge cases: handling boundaries with infinity
+            leftA = nums1[i - 1] if i > 0 else float('-inf')
+            rightA = nums1[i] if i < m else float('inf')
+
+            leftB = nums2[j - 1] if j > 0 else float('-inf')
+            rightB = nums2[j] if j < n else float('inf')
+
+            # Check if we found the correct partition
+            if leftA <= rightB and leftB <= rightA:
+                # Odd total length
+                if (m + n) % 2 != 0:
+                    return float(max(leftA, leftB))
+                # Even total length
+                return (max(leftA, leftB) + min(rightA, rightB)) / 2.0
+
+            # Too far right in nums1, move left
+            elif leftA > rightB:
+                high = i - 1
+            # Too far left in nums1, move right
+            else:
+                low = i + 1
         
