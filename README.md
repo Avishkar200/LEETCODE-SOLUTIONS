@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
@@ -135,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
