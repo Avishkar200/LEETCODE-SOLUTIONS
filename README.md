@@ -28,6 +28,7 @@
 | [0496-next-greater-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
@@ -57,6 +58,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0697-degree-of-an-array) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
