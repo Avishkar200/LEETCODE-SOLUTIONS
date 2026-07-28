@@ -31,6 +31,7 @@
 | [0525-contiguous-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -60,6 +61,7 @@
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
@@ -99,6 +101,7 @@
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
