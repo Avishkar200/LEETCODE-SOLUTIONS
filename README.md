@@ -100,6 +100,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
