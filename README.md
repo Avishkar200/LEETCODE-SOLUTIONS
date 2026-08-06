@@ -259,4 +259,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
