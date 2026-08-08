@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
