@@ -11,7 +11,7 @@ class Solution:
             if nums[i] > nums[i - 1]:
                 count += 1
             else:
-                count = 1  # Resets for both equal (==) and decreasing (<) elements
+                count = 1  
                 
             if count > max_len:
                 max_len = count
