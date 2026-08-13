@@ -36,6 +36,7 @@
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
