@@ -46,6 +46,7 @@
 | [0905-sort-array-by-parity](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0989-add-to-array-form-of-integer) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
