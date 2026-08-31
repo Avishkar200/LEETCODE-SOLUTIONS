@@ -321,4 +321,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
