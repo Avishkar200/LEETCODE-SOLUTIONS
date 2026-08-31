@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
