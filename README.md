@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -110,6 +111,7 @@
 | [0002-add-two-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
@@ -140,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
