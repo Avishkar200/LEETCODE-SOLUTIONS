@@ -58,6 +58,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -96,6 +97,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
