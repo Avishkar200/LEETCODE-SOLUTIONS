@@ -46,6 +46,7 @@
 | [0860-lemonade-change](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -123,6 +124,7 @@
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0989-add-to-array-form-of-integer) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -211,6 +213,7 @@
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -304,6 +307,7 @@
 | [0561-array-partition](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
@@ -370,8 +374,13 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
+| [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
