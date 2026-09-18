@@ -153,6 +153,7 @@
 | [0014-longest-common-prefix](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
@@ -176,6 +177,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
