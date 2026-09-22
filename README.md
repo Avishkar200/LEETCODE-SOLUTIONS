@@ -118,6 +118,7 @@
 | [0013-roman-to-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
@@ -266,6 +267,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -288,6 +290,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
