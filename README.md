@@ -50,6 +50,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -93,6 +94,7 @@
 | [0645-set-mismatch](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -192,6 +194,7 @@
 | [0905-sort-array-by-parity](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0268-missing-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -222,6 +226,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
