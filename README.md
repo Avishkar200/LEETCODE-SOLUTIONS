@@ -52,6 +52,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -96,6 +97,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -206,6 +208,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -264,6 +267,7 @@
 | [0238-product-of-array-except-self](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -354,6 +358,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
