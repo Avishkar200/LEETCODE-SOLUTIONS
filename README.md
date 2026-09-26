@@ -53,6 +53,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -169,6 +171,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
