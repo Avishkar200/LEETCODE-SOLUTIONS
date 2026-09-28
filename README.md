@@ -172,6 +172,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -251,6 +252,7 @@
 | [0496-next-greater-element-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
