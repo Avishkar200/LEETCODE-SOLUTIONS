@@ -49,6 +49,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1046-last-stone-weight) |
 ## Bracket Sequences
 |  |
 | ------- |
