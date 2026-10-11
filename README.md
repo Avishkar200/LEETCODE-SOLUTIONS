@@ -61,6 +61,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -310,6 +311,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Avishkar200/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
